@@ -1,7 +1,7 @@
 # MHtool - 多功能计算器工具
 
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/your-username/MHtool?style=for-the-badge&sort=semver)
-![GitHub license](https://img.shields.io/github/license/your-username/MHtool?style=for-the-badge)
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/sudo1123/MHtool?style=for-the-badge&sort=semver)
+![GitHub license](https://img.shields.io/github/license/sudo1123/MHtool?style=for-the-badge)
 ![Python version](https://img.shields.io/badge/Python-3.x-blue?style=for-the-badge)
 
 **MHtool** 是一个基于 Python 的命令行多功能计算器工具，集成了多种数学计算、数据处理和图形绘制功能，旨在为用户提供一个方便、快捷的计算解决方案。
